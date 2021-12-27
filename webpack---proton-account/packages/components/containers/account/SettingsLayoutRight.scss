@@ -1,0 +1,9 @@
+
+$path-images: "~@proton/styles/assets/img/shared/";
+
+
+@import '~@proton/styles/scss/config';
+
+.settings-layout-right {
+	min-inline-size: em(240);
+}
